@@ -11,7 +11,6 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caio-DevEnginner&theme=nord_dark) 
 
 ## Tecnologias Em Estudos
-
 <div style="display: inline_block"><br/>
     <img aligne="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img aligne="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

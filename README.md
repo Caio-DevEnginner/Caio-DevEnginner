@@ -18,4 +18,4 @@
     <img aligne="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-![snake animation](https://github.com/Caio-DevEnginner/Caio-DevEnginner/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/Caio-DevEnginner/Caio-DevEnginner/blob/output/github-contribution-grid-snake.svg)
